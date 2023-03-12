@@ -1,0 +1,1 @@
+<h1>No auth home page</h1>
